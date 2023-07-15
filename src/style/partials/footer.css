@@ -3,7 +3,6 @@
   justify-content: space-between;
   border-top: 0.2px solid #A5A1A1;
   padding: 40px 70px 50px 70px;
-  flex-wrap: wrap;
 }
 
 .footer-top li:not(:last-child) {
@@ -62,7 +61,6 @@
 
 .footer-bottom {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   border-top: 0.2px solid #A5A1A1;
@@ -82,7 +80,7 @@
   width: 190px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .footer-top {
     padding: 35px 33px 42px;
     flex-direction: column;
