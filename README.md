@@ -12,7 +12,7 @@ Selfcare é uma prática de cuidados pessoais que visa a melhorar a saúde físi
 
 O desafio foi criado com o intuito de aprimorar os conhecimentos em HTML5, CSS3 e Responsividade.
 
-### <a href="https://luizfelipe9627-disney-vnw.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-selfcare-vnw.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
