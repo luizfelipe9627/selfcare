@@ -1,0 +1,159 @@
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  border-top: 0.2px solid #A5A1A1;
+  padding: 40px 70px 50px 70px;
+  flex-wrap: wrap;
+}
+
+.footer-top li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.footer-top li a {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.footer-top li a:hover {
+  text-decoration: underline;
+}
+
+.footer-top label {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.footer-top form div {
+  display: flex;
+  align-items: center;
+  margin-top: 18px;
+}
+
+.footer-top input {
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  background-color: #FFF;
+  color: #161616;
+  border: 0.5px solid #D9D9D9;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.footer-top input::placeholder {
+  color: #A8A4A4;
+}
+
+.footer-top button {
+  height: 56px;
+  background-color: #5CA720;
+  padding: 15px 34px;
+  border-radius: 0px 5px 5px 0px;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+}
+
+.footer-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 0.2px solid #A5A1A1;
+  padding: 45px 70px;
+}
+
+.redes-sociais {
+  display: flex;
+  justify-content: space-between;
+  width: 85px;
+}
+
+.pagamentos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 190px;
+}
+
+@media (max-width: 768px) {
+  .footer-top {
+    padding: 35px 33px 42px;
+    flex-direction: column;
+  }
+
+  .footer-top li a {
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .footer-top form {
+    margin-top: 55px;
+  }
+
+  .footer-top form div {
+    flex-direction: column;
+  }
+
+  .footer-top label {
+    font-size: 14px;
+    line-height: 16.8px;
+  }
+
+  .footer-top input {
+    margin-bottom: 17px;
+    padding: 12px 10px;
+  }
+
+  .footer-top input::placeholder {
+    font-size: 15.83px;
+    font-weight: 600;
+    line-height: 19px;
+  }
+
+  .footer-top button {
+    width: 100%;
+    height: 43px;
+    padding: 12px 0;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #FFF;
+  }
+
+  .footer-bottom {
+    padding: 30px 33px;
+  }
+
+  .redes-sociais {
+    width: 60px;
+  }
+
+  .redes-sociais img {
+    width: 23px;
+  }
+
+  .pagamentos {
+    width: 120px;
+  }
+
+  .pagamentos img:nth-child(1) {
+    width: 30px;
+    height: 23px;
+  }
+
+  .pagamentos img:nth-child(2) {
+    width: 15px;
+    height: 17px;
+  }
+
+  .pagamentos img:nth-child(3) {
+    width: 30px;
+    height: 10px;
+  }
+}

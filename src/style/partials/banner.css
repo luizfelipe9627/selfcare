@@ -1,0 +1,19 @@
+.banner-desktop {
+  width: 100%;
+}
+
+.banner-mobile {
+  display: none;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .banner-desktop {
+    display: none;
+  }
+
+  .banner-mobile {
+    display: block;
+    width: 100%;
+  }
+}
