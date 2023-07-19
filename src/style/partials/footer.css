@@ -107,6 +107,7 @@
   .footer-top input {
     margin-bottom: 17px;
     padding: 12px 10px;
+    border-radius: 3px;
   }
 
   .footer-top input::placeholder {
