@@ -1,8 +1,8 @@
-# selfcare - Vai na Web
+# selfcare
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/luizfelipe9627/selfcare-vnw/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do desafio do Vai na Web">
+<img src="https://github.com/luizfelipe9627/selfcare/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do desafio do Vai na Web">
 
 ## 📄 Descrição
 
@@ -12,7 +12,7 @@ Selfcare é uma prática de cuidados pessoais que visa a melhorar a saúde físi
 
 A atividade foi criada com o intuito de aprimorar os conhecimentos em HTML5, CSS3 e Responsividade.
 
-### <a href="https://luizfelipe9627-selfcare-vnw.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-selfcare.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
